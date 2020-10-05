@@ -10,3 +10,4 @@
 /common/service_base/service_base.iml
 /service/service_edu/service_edu.iml
 /service/service_oss/service_oss.iml
+.gitignore
