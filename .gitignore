@@ -11,3 +11,7 @@
 /service/service_edu/service_edu.iml
 /service/service_oss/service_oss.iml
 .gitignore
+/service/service_vod/service_vod.iml
+/service/service_vod/target/
+/service/service_cms/service_cms.iml
+/service/service_cms/target/
